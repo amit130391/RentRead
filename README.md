@@ -1,5 +1,5 @@
 # RentRead
-RESTful API service using Spring Boot to manage an online book rental system while using MySQL to persist the data
+RESTful API service using Spring Boot to manage an online book rental system while using MySQL to persist the data.The service uses Basic Auth.
 
 ## Postman Collection
 
@@ -24,6 +24,7 @@ You can import the Postman collection for this project using the following link:
 ## Technologies Used
 - Java
 - Spring Boot
+- Spring Security
 - Spring Data JPA
 - RESTful API
 - MySQL
